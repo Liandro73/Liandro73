@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dernival Liandro :)
 - 👀 I’m interested in Test, QA and Development.
 - 🌱 I’m currently learning Cypress.
-- 💞️ I’m looking to collaborate on Test Automation (Web, Mobile and API) with Java, JavaScript, Selenium, Cucumber, Appium, Cypress, Robot Framework, Rest-assured.
+- 💞️ I’m looking to collaborate on Test Automation projects (Web, Mobile and API) with Java, JavaScript, Selenium, Cucumber, Appium, Cypress, Robot Framework, Rest-assured.
 - 📫 How to reach me? liandro.sys@gmail.com or https://www.linkedin.com/in/d-liandro/
 
 <!---
