@@ -20,7 +20,7 @@
 <h3>Connect with me</h3>
 
 <div style="display: inline">
-    <a href="https://www.linkedin.com/in/d-liandro/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/dernivalliandro/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href = "mailto:liandro.sys@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <br>
 </div>
