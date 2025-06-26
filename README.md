@@ -14,7 +14,7 @@
 
 - 👀 I’m interested in Test, QA and Development.
 
-- 🌱 I’m currently learning Django and Angular.
+- 🌱 I’m currently learning Playwright.
 
 - 💞️ I’m looking to collaborate on Test Automation projects (Web, Mobile and API) with Java, JavaScript, Selenium, Cucumber, Appium, Cypress, Robot Framework, Rest-assured.
 
