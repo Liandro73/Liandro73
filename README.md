@@ -5,7 +5,8 @@
 <h3>About</h3>
 
 - 👋 Hi, I’m Dernival Liandro, I'm a Software Quality Engineer :)
-- I've achieved 2x ISTQB certifications as well (CTFL and CTFL-AT)
+- CTFL - Certified Tester Fundation Level
+- CTFL-AT - Certified Tester Fundation Level - Agile Tester
 
 - 📖 Degree in Systems Analysis and Development.
 
