@@ -5,6 +5,7 @@
 <h3>About</h3>
 
 - 👋 Hi, I’m Dernival Liandro, I'm a Software Quality Engineer :)
+- I've achieved 2x ISTQB certifications as well (CTFL and CTFL-AT)
 
 - 📖 Degree in Systems Analysis and Development.
 
