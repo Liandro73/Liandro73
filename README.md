@@ -5,8 +5,8 @@
 <h3>About</h3>
 
 - 👋 Hi, I’m Dernival Liandro, I'm a Software Quality Engineer :)
-- CTFL - Certified Tester Fundation Level
-- CTFL-AT - Certified Tester Fundation Level - Agile Tester
+- ✅ CTFL - Certified Tester Fundation Level
+- ✅ CTFL-AT - Certified Tester Fundation Level - Agile Tester
 
 - 📖 Degree in Systems Analysis and Development.
 
@@ -47,6 +47,7 @@
     <img src="https://img.shields.io/badge/ROBOT FRAMEWORK-black?style=for-the-badge&logo=robotframework" />
     <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/CYPRESS-black?style=for-the-badge&logo=cypress" />
+    <img src="https://img.shields.io/badge/PLAYWRIGHT-orange?style=for-the-badge&logo=playwright" />
     <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
     <img src="https://img.shields.io/badge/CSHAP-68217A?style=for-the-badge&logo=csharp&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34C26?&style=for-the-badge&logo=html5&logoColor=white"/> 
