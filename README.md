@@ -12,7 +12,7 @@
 
 - 📖 Post degree in Software Quality Engineering.
 
-- 👀 I’m interested in Test, QA and Development.
+- 👀 I’m interested in Testing, QA and Development.
 
 - 🌱 I’m currently learning Playwright.
 
