@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning Playwright.
 
-- 💞️ I’m looking to collaborate on Test Automation projects (Web, Mobile and API) with Java, JavaScript, Selenium, Cucumber, Appium, Cypress, Robot Framework, Rest-assured.
+- 💞️ I’m looking to collaborate on Automated testing projects (Web, Mobile and API) with Java, JavaScript, Selenium, Cucumber, Appium, Robot Framework, Rest-assured, and Cypress.
 
 <br>
 <h3>Connect with me</h3>
